@@ -1,0 +1,67 @@
+/*  Shift + Alt + F => Format Code  */
+
+/*  banner  */
+#banner {
+    width: 100%;
+}
+
+/* Corpo */
+.principal {
+    padding: 30px;
+    background: #f1f1f1;
+}
+
+/* Títulos */
+.titulo-principal {
+    font-size: 35px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
+
+.titulo_centralizado {
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+/* corpo texto */
+p {
+    text-align: center;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+#missao {
+    font-size: 20px
+}
+
+/*  itens lista  */
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
+    padding: 20px;
+    background: #FFFFFF;
+}
+
+.beneficios ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.img_beneficios {
+    width: 50%;
+}
+
+/*  destaques texto  */
+em strong {
+    color: #a56e00;
+    /*rgb - hexadecimal #0000ff => rgb(0,0,255)    */
+}

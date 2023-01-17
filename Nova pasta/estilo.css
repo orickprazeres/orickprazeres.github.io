@@ -1,0 +1,41 @@
+/* Cabeçalho */
+header {
+	background: #f1f1f1;
+	padding: 20px 0;
+}
+
+.logo {
+	width: 20px;	
+	height: auto;
+}
+
+.caixa {
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
+
+nav {
+	position: absolute;
+	top: 50%;
+	right: 0px;
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+	/*      T D B E   */
+}
+
+
+
+
+/* Rodapé */
+footer {
+	background: url("logo/bg.jpg");
+	text-align: center;
+}
+
+footer p {
+	color: white
+}
